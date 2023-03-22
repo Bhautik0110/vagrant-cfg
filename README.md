@@ -20,5 +20,8 @@ $> vagrant ssh bob
 # password is vagrant
 
 # Destroy all VMs
-$> vagrant destroy 
+$> vagrant destroy
+
+# Stop / Shutdown machine
+$> vagrant halt
 ```
